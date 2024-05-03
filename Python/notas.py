@@ -1,0 +1,6 @@
+TP=int(input("digite nota TP"))
+P2=int(input("digite nota 2"))
+P1=int(input("digite nota 1"))
+IEL=int(input("digite IEL"))
+total=(((P1*0.3)+(P2*0.3)+(TP*0.3)+(IEL*0.1)))
+print(total)
