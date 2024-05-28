@@ -1,0 +1,47 @@
+QWidget{
+    background-color: rgb(221, 221, 221);
+}
+
+#MonitoramentoVeicular{
+    background-color: rgb(221, 221, 221) ; /*muda a cor de fundo*/
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+#nome {
+    background-color: rgb(221, 221, 221) ; /*muda a cor de fundo*/
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+#placa{
+    background-color: rgb(221, 221, 221) ; /*muda a cor de fundo*/
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+#modelo{
+    background-color: rgb(221, 221, 221) ; /*muda a cor de fundo*/
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+#cor{
+    background-color: rgb(221, 221, 221) ; /*muda a cor de fundo*/
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
+
+#verificar{
+    background-color: gray ;
+    font-size: 24px;
+    font-weight: bolder;
+    color : rgb(255, 255, 255);
+    border-radius: 20;
+
+}
